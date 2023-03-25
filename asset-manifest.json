@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.09de4c41.css",
-    "main.js": "/static/js/main.cb0560c8.js",
-    "static/js/787.78a2e95e.chunk.js": "/static/js/787.78a2e95e.chunk.js",
-    "index.html": "/index.html",
-    "main.09de4c41.css.map": "/static/css/main.09de4c41.css.map",
-    "main.cb0560c8.js.map": "/static/js/main.cb0560c8.js.map",
-    "787.78a2e95e.chunk.js.map": "/static/js/787.78a2e95e.chunk.js.map"
+    "main.css": "/orbital-motion/static/css/main.d01c24a8.css",
+    "main.js": "/orbital-motion/static/js/main.8f3b593b.js",
+    "static/js/787.78a2e95e.chunk.js": "/orbital-motion/static/js/787.78a2e95e.chunk.js",
+    "index.html": "/orbital-motion/index.html",
+    "main.d01c24a8.css.map": "/orbital-motion/static/css/main.d01c24a8.css.map",
+    "main.8f3b593b.js.map": "/orbital-motion/static/js/main.8f3b593b.js.map",
+    "787.78a2e95e.chunk.js.map": "/orbital-motion/static/js/787.78a2e95e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.09de4c41.css",
-    "static/js/main.cb0560c8.js"
+    "static/css/main.d01c24a8.css",
+    "static/js/main.8f3b593b.js"
   ]
 }
